@@ -1,0 +1,5 @@
+行 20: 控件 TeleReg1 的类 CtrTeleReg.TeleReg 不是一个已加载的控件类。
+行 26: 属性名 _ExtentX 在 TeleReg1 中是无效的。
+行 27: 属性名 _ExtentY 在 TeleReg1 中是无效的。
+行 42: 属性名 MsgInfo 在 TeleReg1 中是无效的。
+行 43: 属性名 Interval 在 TeleReg1 中是无效的。
